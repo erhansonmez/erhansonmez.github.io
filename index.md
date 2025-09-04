@@ -27,5 +27,5 @@ Senior Software Engineer & Team Lead. End-to-end platform builder: e-commerce (b
 
 ## Contact
 - Email: [Leave a Message](erhansonmez@outlook.com)  
-- LinkedIn: [Visit LinkedIn Profile](https://www.linkedin.com/in/erhan-s%C3%B6nmez-93411b239/)
+- LinkedIn: [Visit LinkedIn Profile](https://www.linkedin.com/in/erhansonmez/)
 - GitHub: [Github Repo](https://github.com/erhansonmez)
