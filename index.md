@@ -26,6 +26,6 @@ Senior Software Engineer & Team Lead. End-to-end platform builder: e-commerce (b
 - [Route Planner over Google Maps](/projects/route-planner.html)
 
 ## Contact
-- Email: erhansonmez@outlook.com  
-- LinkedIn: https://www.linkedin.com/in/erhan-s%C3%B6nmez-93411b239/
-- GitHub: https://github.com/erhansonmez
+- Email: [Leave a Message](erhansonmez@outlook.com)  
+- LinkedIn: [Visit LinkedIn Profile](https://www.linkedin.com/in/erhan-s%C3%B6nmez-93411b239/)
+- GitHub: [Github Repo](https://github.com/erhansonmez)
