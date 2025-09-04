@@ -1,0 +1,5 @@
+title: jordi — Portfolio
+description: Senior Software Engineer & Team Lead. E-commerce, VoIP/WebRTC, event-driven systems.
+theme: minima
+plugins:
+  - jekyll-seo-tag
